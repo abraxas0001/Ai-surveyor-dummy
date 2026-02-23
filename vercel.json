@@ -1,8 +1,1 @@
-{
-  "crons": [
-    {
-      "path": "/api/document-assessment/process-pending",
-      "schedule": "0 * * * *"
-    }
-  ]
-}
+{"crons":[{"path":"/api/document-assessment/process-pending","schedule":"0 * * * *"}]}
